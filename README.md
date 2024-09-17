@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,python,nodejs)](https://skillicons.dev)
+
 <!--
 **Blackscr33n/Blackscr33n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
