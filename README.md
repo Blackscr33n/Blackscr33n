@@ -3,6 +3,8 @@
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,python,nodejs)](https://skillicons.dev)
 
+<a href="https://app.daily.dev/bernhardmiehl"><img src="https://api.daily.dev/devcards/v2/YwCpEp2vam5023r7FLgVT.png?r=c0r" width="356" alt="Bernhard Miehl's Dev Card"/></a>
+
 <!--
 **Blackscr33n/Blackscr33n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
